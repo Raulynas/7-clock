@@ -8,7 +8,7 @@ const timer = setInterval(function () {
         DOM.innerText = "Finito";
         clearInterval(timer);
     }
-}, 1000)
+}, 10)
 }
 
 
