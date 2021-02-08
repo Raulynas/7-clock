@@ -1,4 +1,5 @@
 function clock(selector) {
+     
     const DOM = document.querySelector(selector);
     let number = parseInt(DOM.innerText);
 
